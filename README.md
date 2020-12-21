@@ -9,3 +9,18 @@ first trial for sentiment analysis by shcho11
   5) Stemming (어간추출) #Porter Stemming Algorithm
   6) Lemmatization (단어 원형, 즉 표제어 찾기) 
   7) Stopword (불용어) 제거
+
+2. N-gram language modeling (Unigram LM , Bigram LM, Trigram LM)
+  # import nltk
+  # from nltk.util import ngrams
+
+3. Scikit-learn
+  1) Machine learning (머신러닝)
+  2) Text Classification (텍스트 분류)
+  - Load dataset (데이터셋 로딩)
+    # from sklearn.datasets import fetch_20news
+  - Extract features from text (텍스트 특징 추출)
+    # from sklearn.feature_extraction.text import CountVectorizer
+  - Trainig a classifier (분류사 학습)
+    # from sklearn.naive_bayes import MultinomialNB
+  - 

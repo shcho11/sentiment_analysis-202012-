@@ -4,10 +4,10 @@
   - word tokenization, stemming, lemmatization, stopword deletion 등 실습
   - 한글 : KoNLPy, 영어 : nltk 사용
 
-# 2와 3 에서는 실습 진행 위한 개념 이해 및 코딩 이해가 부족하여<br>
-  기존 깃허브 코딩을 참고만 하거나, 참고하여 코딩하는데 집중하였습니다.
-  https://github.com/Parkchanjun/KU-NLP-2020-1.git <br>
-  https://github.com/shna83/-DFE610-NLP-sentimental-analysis-.git
+!! 2와 3 에서는 실습 진행 위한 개념 이해 및 코딩 이해가 부족하여<br>
+   기존 깃허브 코딩을 참고만 하거나, 참고하여 코딩하는데 집중하였습니다. <br>
+   https://github.com/Parkchanjun/KU-NLP-2020-1.git <br>
+   https://github.com/shna83/-DFE610-NLP-sentimental-analysis-.git <br>
 
 2. Keras
   * Keras 활용

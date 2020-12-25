@@ -9,7 +9,6 @@
   https://github.com/shna83/-DFE610-NLP-sentimental-analysis-.git
 
 2. Keras
-  개념)
   * Keras 활용
    - 입력 텐서의 타겟텐서로 이루어진 훈련 데이터를 정의
    - 입력과 타겟을 mapping하는 층(layer)로 이루어진 모델 (혹은 네트워크)를 정의
